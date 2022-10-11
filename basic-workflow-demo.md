@@ -1,7 +1,6 @@
 # Basic Workflow Demo
 
 
-
 ## General Steps
 
 - Click Actions tab, click New Workflow button, discuss templates
